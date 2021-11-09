@@ -25,7 +25,7 @@ maya==0.6.1
 multidict==4.7.6
 parse==1.16.0
 pendulum==2.1.2
-pyee==7.0.2
+pyee==8.2.2
 pyppeteer==0.2.5
 pyquery==1.4.1
 python-dateutil==2.8.1
